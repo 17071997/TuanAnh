@@ -1,0 +1,9 @@
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+c:\users\anh\documents\visual studio 2013\Projects\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
